@@ -3,7 +3,7 @@
 ```Todo: truffle compile && truffle migrate --network harmony --reset```
 
 
-- [x] [ZooHarmony || 0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda](https://explorer.harmony.one/address/0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda?activeTab=7)
+- [x] ZooHarmony: [0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda](https://explorer.harmony.one/address/0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda?activeTab=7)
 - [x] [ZooHarmonyNFT || 0x00602AF9636AacCcBf63C5855E97dAD38a1f71D6](https://explorer.harmony.one/address/0x8f81bfac14bfbACD6685963D8beb5b73348156FE?activeTab=7)
 - [x] [ZooHarmonyNFTLikes || 0x00602AF9636AacCcBf63C5855E97dAD38a1f71D6](https://explorer.harmony.one/address/0x00602af9636aacccbf63c5855e97dad38a1f71d6?activeTab=7)
 - [x] [ZooHarmonyNFTAds || 0x78414688343f4b3bA375eA618DEE14Fdfd598374](https://explorer.harmony.one/address/0x78414688343f4b3ba375ea618dee14fdfd598374?activeTab=7)
