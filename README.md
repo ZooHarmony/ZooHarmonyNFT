@@ -2,7 +2,7 @@
 
 ```Todo: truffle compile && truffle migrate --network harmony --reset```
 
-### All Contract Verfied
+### All Contract is Verfied
 
 - [x] ZooHarmony: [0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda](https://explorer.harmony.one/address/0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda?activeTab=7)
 - [x] ZooHarmonyNFT [0x00602AF9636AacCcBf63C5855E97dAD38a1f71D6](https://explorer.harmony.one/address/0x8f81bfac14bfbACD6685963D8beb5b73348156FE?activeTab=7)
