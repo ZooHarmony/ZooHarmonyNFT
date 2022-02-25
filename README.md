@@ -2,7 +2,7 @@
 
 ```Todo: truffle compile && truffle migrate --network harmony --reset```
 
-<p align='center'>
+
 - [x] [ZooHarmony || 0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda](https://explorer.harmony.one/address/0x9e0882e93d7f19e3d3fc6d062652fe7e9e375fda?activeTab=7)
 - [x] [ZooHarmonyNFT || 0x00602AF9636AacCcBf63C5855E97dAD38a1f71D6](https://explorer.harmony.one/address/0x8f81bfac14bfbACD6685963D8beb5b73348156FE?activeTab=7)
 - [x] [ZooHarmonyNFTLikes || 0x00602AF9636AacCcBf63C5855E97dAD38a1f71D6](https://explorer.harmony.one/address/0x00602af9636aacccbf63c5855e97dad38a1f71d6?activeTab=7)
@@ -16,5 +16,5 @@
 - [x] [ZooHarmonyPool || 0x7F6d414A0ff5a268ade9220Bdc4E3D798926f708](https://explorer.harmony.one/address/0x7F6d414A0ff5a268ade9220Bdc4E3D798926f708?activeTab=7)
 - [x] [ZooHarmonyWone || 0xa9349C71148e376138cC90964Ff437176d94F3a8](https://explorer.harmony.one/address/0xa9349C71148e376138cC90964Ff437176d94F3a8?activeTab=7)
 - [x] [ZooDex || 0x520D479046A02A875D9F3b46CA661Da67f3c2735](https://explorer.harmony.one/address/0x520D479046A02A875D9F3b46CA661Da67f3c2735)
-</p>
+
 
